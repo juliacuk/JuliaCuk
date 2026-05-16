@@ -28,10 +28,6 @@ który nie mieści się w standardowych tabelach.
 - MS Excel (tabele przestawne, Power Query)
 - Power BI
 
-**Bazy danych:**
-- SQL (zapytania, joins, agregacje)
-- NoSQL – MongoDB
-
 **AI & efektywność pracy:**
 - Prompt Engineering — świadomie wykorzystuję modele LLM do wsparcia pracy
   z kodem, debugowania i czyszczenia danych. Traktuję AI jako narzędzie,
