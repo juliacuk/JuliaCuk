@@ -45,11 +45,9 @@ z biblioteką spaCy i transformerami.
 
 **⚙️ Automatyzacja w Pythonie**
 Pogłębiam znajomość Pandas i NumPy, żeby sprawniej zarządzać dużymi zbiorami
-danych i ograniczać ręczną, powtarzalną pracę. Interesuje mnie pisanie skryptów,
-które robią za mnie to, co nudne — po to, żebym mogła skupić się na tym,
-co ciekawe.
+danych i ograniczać ręczną, powtarzalną pracę. 
 
-**📊 Zaawansowana wizualizacja**
+**📊 Wizualizacja**
 Chcę wyjść poza domyślne wykresy i tworzyć wizualizacje, które naprawdę
 komunikują — nie tylko pokazują dane, ale opowiadają historię.
 
